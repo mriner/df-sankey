@@ -83,7 +83,7 @@
 {"source":"MobilityData","target":"xMART","value":"0.2","color":"#4a7d99"},
 {"source":"Stars?","target":"PAHO","value":"0.2","color":"#4a5699"},
 {"source":"ECDC","target":"EURO","value":"0.2","color":"#4a5699"},
-{"source":"EMFLU","target":"EMRO","value":"0.2","color":"#4a5699"},
+{"source":"EMFLU","target":"EMRO","value":"0.2","color":"#4a5699"}
 ],
 "nodes": [
 {"name":"MoH","color":"#c2d3c3"},
